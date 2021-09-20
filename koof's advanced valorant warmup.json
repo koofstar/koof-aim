@@ -1,0 +1,62 @@
+{
+	"playlistName": "koof's advanced valorant warmup",
+	"scenarioList": [
+		{
+			"scenarioName": "Reflex Micro++ Flick Horizontalish",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Micro adjustment median dense -arm",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Extra Small Reflex Micro++",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400% FIXED",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1w6tmultilayerclosedodgeslowersmaller",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "tamspeed 2bpes 2-clicks",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1w2ts reload 25% smaller",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Fireworks Flick Small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "ValTargetSwitch small no reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "SYW (Smooth Your Wrist) FIXED",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 2
+		}
+	],
+	"isFavorite": false
+}
